@@ -1,0 +1,123 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="3913" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="IncorrectHttpHeaderInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="customHeaders">
+        <set>
+          <option value="@cid = 2018" />
+          <option value="@sec = 5a75ada3-1843-47da-b5fa-a1f319fe17e1" />
+          <option value="@deviceId = f6ec8756-ea90-b9b0-28d7-6d1143c15a11" />
+          <option value="@appVersion = 1.0" />
+          <option value="@appId = wbot" />
+          <option value="@password = fef339JT!" />
+          <option value="@name = wlettieri" />
+          <option value="  &quot;file_path&quot;" />
+          <option value="  &quot;delete_original&quot;" />
+          <option value="}" />
+          <option value="  &quot;max_results&quot;" />
+          <option value="  &quot;query&quot;" />
+          <option value="&#9;&quot;document_id&quot;" />
+          <option value="&#9;&quot;max_results&quot;" />
+        </set>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="3.12" />
+            <item index="1" class="java.lang.String" itemvalue="3.11" />
+            <item index="2" class="java.lang.String" itemvalue="3.10" />
+            <item index="3" class="java.lang.String" itemvalue="3.9" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="36">
+            <item index="0" class="java.lang.String" itemvalue="csv" />
+            <item index="1" class="java.lang.String" itemvalue="talib" />
+            <item index="2" class="java.lang.String" itemvalue="threading" />
+            <item index="3" class="java.lang.String" itemvalue="time" />
+            <item index="4" class="java.lang.String" itemvalue="python-binance" />
+            <item index="5" class="java.lang.String" itemvalue="pandas" />
+            <item index="6" class="java.lang.String" itemvalue="requests" />
+            <item index="7" class="java.lang.String" itemvalue="pytz" />
+            <item index="8" class="java.lang.String" itemvalue="DateTime" />
+            <item index="9" class="java.lang.String" itemvalue="redis" />
+            <item index="10" class="java.lang.String" itemvalue="Flask" />
+            <item index="11" class="java.lang.String" itemvalue="plotly" />
+            <item index="12" class="java.lang.String" itemvalue="sqlalchemy" />
+            <item index="13" class="java.lang.String" itemvalue="bs4" />
+            <item index="14" class="java.lang.String" itemvalue="selenium" />
+            <item index="15" class="java.lang.String" itemvalue="ibapi" />
+            <item index="16" class="java.lang.String" itemvalue="fastapi" />
+            <item index="17" class="java.lang.String" itemvalue="pydantic" />
+            <item index="18" class="java.lang.String" itemvalue="pinecone" />
+            <item index="19" class="java.lang.String" itemvalue="protobuf" />
+            <item index="20" class="java.lang.String" itemvalue="scipy" />
+            <item index="21" class="java.lang.String" itemvalue="joblib" />
+            <item index="22" class="java.lang.String" itemvalue="mypy-protobuf" />
+            <item index="23" class="java.lang.String" itemvalue="threadpoolctl" />
+            <item index="24" class="java.lang.String" itemvalue="h11" />
+            <item index="25" class="java.lang.String" itemvalue="types-protobuf" />
+            <item index="26" class="java.lang.String" itemvalue="blinker" />
+            <item index="27" class="java.lang.String" itemvalue="pyobjc-framework-Cocoa" />
+            <item index="28" class="java.lang.String" itemvalue="huggingface-hub" />
+            <item index="29" class="java.lang.String" itemvalue="TA-Lib" />
+            <item index="30" class="java.lang.String" itemvalue="pyobjc-core" />
+            <item index="31" class="java.lang.String" itemvalue="sklearn" />
+            <item index="32" class="java.lang.String" itemvalue="nucliadb-utils" />
+            <item index="33" class="java.lang.String" itemvalue="nucliadb" />
+            <item index="34" class="java.lang.String" itemvalue="websockets" />
+            <item index="35" class="java.lang.String" itemvalue="nats-py" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mysql.connector" />
+          <option value="bool.astype" />
+          <option value="bool.all" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlAmbiguousColumnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlAutoIncrementDuplicateInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlCaseVsCoalesceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlCaseVsIfInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlCheckUsingColumnsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlConstantConditionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlConstantExpressionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlDerivedTableAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlDtInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlInsertValuesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlJoinWithoutOnInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlRedundantCodeInCoalesceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlRedundantElseNullInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlRedundantOrderingDirectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SqlShadowingAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlSideEffectsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlSignatureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlWithoutWhereInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
