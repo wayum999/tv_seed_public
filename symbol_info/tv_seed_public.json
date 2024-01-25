@@ -1,0 +1,12 @@
+{
+    "currency": "",
+    "description": [
+        "S&P 500 daily election-centric seasonality"
+    ],
+    "pricescale": [
+        1
+    ],
+    "symbol": [
+        "ES_SEASONALITY_DAILY_ELECTION_CENTRIC"
+    ]
+}
